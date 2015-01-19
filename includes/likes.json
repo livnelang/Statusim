@@ -1,0 +1,27 @@
+{
+"likes" : [
+	{ "name" : "Inbal Bill" , "num" : 23 },
+	{ "name" : "Gill Bold" , "num" : 14 },
+	{ "name" : "Smadar Levi" , "num" : 344 },
+	{ "name" : "Roy Cohen" , "num" : 222 },
+	{ "name" : "Tal Halel" , "num" : 11 },
+	{ "name" : "Tsila Mor" , "num" : 123 },
+	{ "name" : "Nisim Naim" , "num" : 321 },
+	{ "name" : "Michal balm" , "num" : 213 },
+	{ "name" : "Adi Mor" , "num" : 312 },
+	{ "name" : "Beni Cohen" , "num" : 223 }
+	],
+	
+	"twits" : [
+	{ "name" : "Inbal Bill" , "num" : 200 },
+	{ "name" : "Gill Bold" , "num" : 189 },
+	{ "name" : "Smadar Levi" , "num" : 180 },
+	{ "name" : "Roy Cohen" , "num" : 160 },
+	{ "name" : "Tal Halel" , "num" : 150 },
+	{ "name" : "Tsila Mor" , "num" : 140 },
+	{ "name" : "Nisim Naim" , "num" : 134 },
+	{ "name" : "Michal balm" , "num" : 132 },
+	{ "name" : "Adi Mor" , "num" : 130 },
+	{ "name" : "Beni Cohen" , "num" : 128 }
+			]
+}
